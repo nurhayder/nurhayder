@@ -1,16 +1,31 @@
-## Hi there 👋
+👋 Hi, I'm Haydrr!
 
-<!--
-**nurhayder/nurhayder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Engineer | 🔐 Cybersecurity Enthusiast
+Welcome to my GitHub profile!
+I'm passionate about technology, programming, and understanding how things work behind the scenes.
+I'm currently building my skills in software engineering, backend development, and cybersecurity.
 
-Here are some ideas to get you started:
+🚀 What I'm Learning
+🐍 Python
+⚡ C++
+🌐 Backend Development
+🐧 Linux
+🌍 Computer Networking
+🔐 Cybersecurity
+🤖 Artificial Intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 My Goals
+Become a skilled software engineer.
+Build real-world applications.
+Master backend development.
+Develop strong cybersecurity skills.
+Explore AI and intelligent systems.
+Contribute to meaningful projects.
+
+🛠️ My Developer Journey
+I'm documenting my learning journey here, one project at a time.
+Learn. Build. Break. Understand. Improve.
+
+📌 Projects
+More projects coming soon! 🚀
+⭐ Thanks for visiting my profile!
