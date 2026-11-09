@@ -46,9 +46,10 @@ Learn. Build. Break. Understand. Improve.
 
 More projects coming soon! 🚀
 ## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=nurhayder&theme=tokyonight)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nurhayder&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nurhayder&layout=compact&theme=tokyonight)
 
 ⭐ Thanks for visiting my profile!
