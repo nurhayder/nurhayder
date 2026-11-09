@@ -47,8 +47,8 @@ Learn. Build. Break. Understand. Improve.
 More projects coming soon! 🚀
 ## 📊 GitHub Stats
 
-![GitHub Stats] (https://github-readme-stats.vercel.app/api?username=nurhayder&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nurhayder&show_icons=true&theme=tokyonight)
 
-![Top Languages] (https://github-readme-stats.vercel.app/api/top-langs/?username=nurhayder&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nurhayder&layout=compact&theme=tokyonight)
 
 ⭐ Thanks for visiting my profile!
