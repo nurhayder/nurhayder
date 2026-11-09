@@ -22,6 +22,7 @@ I'm currently building my skills in software engineering, backend development, a
 ** Artificial Intelligence
 
 🎯 My Goals
+
 Become a skilled software engineer.
 
 Build real-world applications.
@@ -36,9 +37,13 @@ Contribute to meaningful projects.
 
 
 🛠️ My Developer Journey
+
 I'm documenting my learning journey here, one project at a time.
+
 Learn. Build. Break. Understand. Improve.
 
 📌 Projects
+
 More projects coming soon! 🚀
+
 ⭐ Thanks for visiting my profile!
