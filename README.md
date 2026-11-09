@@ -7,12 +7,18 @@ I'm currently building my skills in software engineering, backend development, a
 
 🚀 What I'm Learning
  Python
+ 
  C++
+ 
  Backend Development
+ 
  Linux
+ 
  Computer Networking
+ 
  Cybersecurity
-  Artificial Intelligence
+ 
+ Artificial Intelligence
 
 🎯 My Goals
 Become a skilled software engineer.
