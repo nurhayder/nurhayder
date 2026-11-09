@@ -57,3 +57,7 @@ More projects coming soon! 🚀
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=nurhayder&layout=compact&theme=tokyonight)
 
 ⭐ Thanks for visiting my profile!
+
+## 🐍 My Contribution Graph
+
+![Snake animation](https://raw.githubusercontent.com/nurhayder/output/output/github-contribution-grid-snake.svg)
