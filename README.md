@@ -6,19 +6,20 @@ I'm passionate about technology, programming, and understanding how things work 
 I'm currently building my skills in software engineering, backend development, and cybersecurity.
 
 🚀 What I'm Learning
- Python
+
+ ** Python
  
- C++
+** C++
  
- Backend Development
+** Backend Development
  
- Linux
+** Linux
  
- Computer Networking
+** Computer Networking
  
- Cybersecurity
+** Cybersecurity
  
- Artificial Intelligence
+** Artificial Intelligence
 
 🎯 My Goals
 Become a skilled software engineer.
